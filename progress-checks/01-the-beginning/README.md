@@ -65,6 +65,6 @@ Run `python save_model.py --weights ./data/yolov4.weights --output ./checkpoints
 2. ALWAYS - visualized in Netron before going onto the next step
 
 # Models
-YOLOv4 Tensorflow [model](./tf-model/saved_model.pb)
+YOLOv4 Tensorflow model: [saved_model.pb](./tf-model/saved_model.pb)
 
-YOLOv4 converted ONNX [model](./onnx-model/model_old.onnx)
+YOLOv4 converted ONNX model: [model_old.onnx](./onnx-model/model_old.onnx)
